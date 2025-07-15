@@ -27,7 +27,7 @@
 
 2. Confirm that the `exp` variable points to the acoustic model path:
    
-3. The full path becomes:
+3. The full path becomes: "`exp` acoustic model path" + "/nnet3_cleaned/tdnn_sp/Inference" (as follows)
    
 4. Navigate to the directory:
 ```bash cd /media/run/kaldi/egs/gop_speechocean762/s5/exp_nnet3_retrain/nnet3_cleaned/tdnn_sp/Inference
